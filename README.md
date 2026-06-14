@@ -1,4 +1,4 @@
-# E-Commerce Application Deployment using Docker & Terraform on AWS
+<img width="1220" height="126" alt="image" src="https://github.com/user-attachments/assets/6b0e3560-61ae-481e-a8de-d4ad0adba55a" /># E-Commerce Application Deployment using Docker & Terraform on AWS
 
 ## Project Overview
 
@@ -221,7 +221,7 @@ The EC2 instance executes a user-data script during launch which:
 Frontend:
 
 ```text
-http://<PUBLIC-IP>:3000
+http://65.0.177.255:3000
 ```
 
 Expected Response:
