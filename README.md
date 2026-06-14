@@ -272,6 +272,8 @@ http://65.0.177.255:3004
 <img width="1218" height="118" alt="image" src="https://github.com/user-attachments/assets/a373671e-d48e-4042-b26b-eea1850aa555" />
 
 ---
+<img width="1280" height="187" alt="image" src="https://github.com/user-attachments/assets/fc2727b8-cc75-483c-85e1-4e053ca21ab7" />
+
 <img width="1279" height="669" alt="image" src="https://github.com/user-attachments/assets/eba4ed81-5e13-4390-931f-525c1f39bc46" />
 
 ## Learning Outcomes
